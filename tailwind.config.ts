@@ -89,11 +89,32 @@ export default {
 					to: {
 						height: '0'
 					}
+				},
+				float: {
+					'0%, 100%': {
+						transform: 'translateY(0px) rotate(0deg)'
+					},
+					'25%': {
+						transform: 'translateY(-10px) rotate(2deg)'
+					},
+					'50%': {
+						transform: 'translateY(-20px) rotate(0deg)'
+					},
+					'75%': {
+						transform: 'translateY(-10px) rotate(-2deg)'
+					}
+				},
+				'fade-text': {
+					'0%': { opacity: '1' },
+					'50%': { opacity: '0.3' },
+					'100%': { opacity: '1' }
 				}
 			},
 			animation: {
 				'accordion-down': 'accordion-down 0.2s ease-out',
-				'accordion-up': 'accordion-up 0.2s ease-out'
+				'accordion-up': 'accordion-up 0.2s ease-out',
+				float: 'float 8s ease-in-out infinite',
+				'fade-text': 'fade-text 4s ease-in-out infinite'
 			}
 		}
 	},

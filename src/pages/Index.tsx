@@ -5,10 +5,12 @@ import Services from "@/components/Services";
 import Portfolio from "@/components/Portfolio";
 import Contact from "@/components/Contact";
 import Footer from "@/components/Footer";
+import FloatingIcons from "@/components/FloatingIcons";
 
 const Index = () => {
   return (
-    <div className="min-h-screen bg-background">
+    <div className="min-h-screen bg-background relative">
+      <FloatingIcons />
       <Navigation />
       <Hero />
       <About />

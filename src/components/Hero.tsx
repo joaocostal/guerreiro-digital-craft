@@ -26,13 +26,13 @@ const Hero = () => {
         <h1 className="text-4xl md:text-6xl lg:text-7xl font-heading font-bold mb-6 text-glow">
           Criamos experiências{" "}
           <span className="text-primary bg-gradient-primary bg-clip-text text-transparent">
-            digitais incríveis
+            visuais incríveis
           </span>
         </h1>
         
-        <p className="text-lg md:text-xl lg:text-2xl text-muted-foreground mb-8 max-w-2xl mx-auto leading-relaxed">
-          Transformamos ideias em realidade através do design inovador e tecnologia de ponta. 
-          Sua marca merece se destacar no mundo digital.
+        <p className="text-lg md:text-xl lg:text-2xl text-muted-foreground mb-8 max-w-2xl mx-auto leading-relaxed animate-fade-text">
+          Transformamos ideias em realidade através da comunicação visual criativa. 
+          Sua marca merece se destacar no mundo físico.
         </p>
 
         <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
