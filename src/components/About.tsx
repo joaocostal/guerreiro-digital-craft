@@ -30,16 +30,16 @@ const About = () => {
           </h2>
           
           <p className="fade-up text-lg md:text-xl text-muted-foreground mb-8 leading-relaxed">
-            Somos uma agência de comunicação visual apaixonada por transformar marcas através 
-            do design estratégico e inovação digital.
+            Somos especialistas em comunicação visual que transformam marcas através 
+            de soluções criativas e impactantes no mundo físico.
           </p>
 
           <div className="grid md:grid-cols-2 gap-8 lg:gap-12">
             <div className="fade-up">
               <h3 className="text-xl font-heading font-semibold mb-4 text-primary">Nossa Missão</h3>
               <p className="text-muted-foreground leading-relaxed">
-                Criar soluções visuais impactantes que conectam marcas aos seus públicos, 
-                gerando resultados reais e experiências memoráveis no ambiente digital.
+                Criar identidades visuais marcantes que conectam marcas aos seus públicos, 
+                gerando impacto real através de fachadas, letreiros, adesivos e sinalização de excelência.
               </p>
             </div>
 
@@ -54,20 +54,20 @@ const About = () => {
 
           <div className="fade-up mt-12 grid grid-cols-2 md:grid-cols-4 gap-8">
             <div className="text-center">
-              <div className="text-3xl md:text-4xl font-bold text-primary mb-2">+50</div>
-              <div className="text-sm text-muted-foreground">Projetos Entregues</div>
+              <div className="text-3xl md:text-4xl font-bold text-primary mb-2">+200</div>
+              <div className="text-sm text-muted-foreground">Fachadas Criadas</div>
             </div>
             <div className="text-center">
-              <div className="text-3xl md:text-4xl font-bold text-primary mb-2">+30</div>
+              <div className="text-3xl md:text-4xl font-bold text-primary mb-2">+150</div>
               <div className="text-sm text-muted-foreground">Clientes Satisfeitos</div>
             </div>
             <div className="text-center">
-              <div className="text-3xl md:text-4xl font-bold text-primary mb-2">5</div>
+              <div className="text-3xl md:text-4xl font-bold text-primary mb-2">8</div>
               <div className="text-sm text-muted-foreground">Anos de Experiência</div>
             </div>
             <div className="text-center">
-              <div className="text-3xl md:text-4xl font-bold text-primary mb-2">100%</div>
-              <div className="text-sm text-muted-foreground">Dedicação</div>
+              <div className="text-3xl md:text-4xl font-bold text-primary mb-2">24h</div>
+              <div className="text-sm text-muted-foreground">Atendimento Ágil</div>
             </div>
           </div>
         </div>

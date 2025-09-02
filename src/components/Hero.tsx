@@ -24,15 +24,13 @@ const Hero = () => {
       {/* Hero Content */}
       <div className="relative z-10 text-center px-4 max-w-4xl mx-auto">
         <h1 className="text-4xl md:text-6xl lg:text-7xl font-heading font-bold mb-6 text-glow">
-          Criamos experiências{" "}
-          <span className="text-primary bg-gradient-primary bg-clip-text text-transparent">
-            visuais incríveis
-          </span>
+          A <span className="text-primary bg-gradient-primary bg-clip-text text-transparent">Guerreiro</span>{" "}
+          cria experiências visuais marcantes
         </h1>
         
         <p className="text-lg md:text-xl lg:text-2xl text-muted-foreground mb-8 max-w-2xl mx-auto leading-relaxed animate-fade-text">
-          Transformamos ideias em realidade através da comunicação visual criativa. 
-          Sua marca merece se destacar no mundo físico.
+          Somos especialistas em comunicação visual que transformam sua marca em referência. 
+          Da fachada aos brindes, criamos identidade visual que conquista e impressiona.
         </p>
 
         <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">

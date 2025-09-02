@@ -83,7 +83,7 @@ const Contact = () => {
             Vamos <span className="text-primary">conversar?</span>
           </h2>
           <p className="fade-up text-lg md:text-xl text-muted-foreground max-w-2xl mx-auto">
-            Estamos prontos para transformar suas ideias em realidade. 
+            Estamos prontos para transformar sua marca em comunicação visual impactante. 
             Entre em contato e vamos criar algo incrível juntos!
           </p>
         </div>
@@ -167,7 +167,7 @@ const Contact = () => {
                 Informações de contato
               </h3>
               <p className="text-muted-foreground leading-relaxed mb-8">
-                Estamos sempre disponíveis para conversar sobre novos projetos. 
+                Estamos sempre disponíveis para conversar sobre fachadas, letreiros, adesivos e projetos de comunicação visual. 
                 Escolha a forma de contato que preferir!
               </p>
             </div>

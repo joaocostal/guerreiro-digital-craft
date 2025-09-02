@@ -15,8 +15,8 @@ const Footer = () => {
               className="h-8 w-auto"
             />
             <p className="text-muted-foreground max-w-sm">
-              Transformamos ideias em experiências digitais memoráveis através 
-              do design estratégico e inovação tecnológica.
+              Especialistas em comunicação visual criando fachadas, letreiros, adesivos 
+              e sinalização que fazem sua marca se destacar.
             </p>
           </div>
 
